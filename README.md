@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Java and SpringBoot**
 
-- 👨‍💻 All of my projects are available at [https://jufa-dev.netlify.app/](https://jufa-dev.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://jufa-dev.netlify.app/](https://jufa-dev.netlify.app/) -- OLD PORTFOLIO
 
 - 💬 Ask me about **React and JavaScript**
 
