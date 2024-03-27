@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **React and JavaScript**
 
-- 📫 How to reach me **juanfrancitorra@gmail.com**
+- 📫 How to reach me **jufaworks@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
