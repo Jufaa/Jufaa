@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/a_jufa" target="blank"><img src="https://img.shields.io/twitter/follow/a_jufa?logo=twitter&style=for-the-badge" alt="a_jufa" /></a> </p>
 
-- 🌱 I’m currently learning **Java and SpringBoot**
+- 🌱 I’m currently learning **Python**
 
 - 👨‍💻 All of my projects are available at [https://jufadev.vercel.app/](https://jufadev.vercel.app/) -- 
 
