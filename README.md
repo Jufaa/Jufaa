@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://jufadev.vercel.app/](https://jufadev.vercel.app/) -- 
 
-- 💬 Ask me about **React and JavaScript**
+- 💬 Ask me about **React and JavaScript**!
 
 - 📫 How to reach me **jufaworks@gmail.com**
 
